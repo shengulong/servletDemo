@@ -1,3 +1,4 @@
 *.log
 logs/*
+logs/*.txt
 catalina.out
