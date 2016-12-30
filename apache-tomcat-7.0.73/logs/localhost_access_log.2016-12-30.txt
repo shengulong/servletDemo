@@ -1,6 +1,0 @@
-127.0.0.1 - - [30/Dec/2016:00:03:19 +0800] "GET /shengulong/shen-hello HTTP/1.1" 200 12
-127.0.0.1 - - [30/Dec/2016:00:03:34 +0800] "GET /shengulong/shen-hello HTTP/1.1" 200 12
-127.0.0.1 - - [30/Dec/2016:00:03:35 +0800] "GET /shengulong/shen-hello HTTP/1.1" 200 12
-127.0.0.1 - - [30/Dec/2016:00:05:48 +0800] "GET /shengulong HTTP/1.1" 302 -
-127.0.0.1 - - [30/Dec/2016:00:05:49 +0800] "GET /shengulong/ HTTP/1.1" 304 -
-127.0.0.1 - - [30/Dec/2016:00:05:54 +0800] "GET /shengulong/shen-hello HTTP/1.1" 200 12
